@@ -85,12 +85,12 @@ Vervolgens sla je de screenshot op met de gevraagde naamgeving.
       Maak opnieuw een screenshot van het uitgevoerde commando samen met het resultaat.
       Plaats deze meteen in de **Screenshots** map onder de naam **deel3A** (met extensie naar keuze).
 
-- [ ] Maak één nieuwe commit die de drie screenshots tegelijk toevoegt aan het versiebeheer.
+- [x] Maak één nieuwe commit die de drie screenshots tegelijk toevoegt aan het versiebeheer.
 >**Tip!** Hiervoor heb je dezelfde commando's nodig die je al gebruikte in deel 2 om het bestand **labo1.md** op te nemen in het versiebeheer.
 
-- [ ] Synchroniseer een tweede keer de lokale commit geschiedenis naar de remote repo.
-- [ ] Gebruik een gepast git commando om de lokale geschiedenis te tonen (een overzicht van alle lokale commits).
-- [ ] Maak hiervan een screenshot (commando & resultaat) met de naam **deel3B** (extensie naar keuze) en plaats deze in de **Screenshots** map.
+- [x] Synchroniseer een tweede keer de lokale commit geschiedenis naar de remote repo.
+- [x] Gebruik een gepast git commando om de lokale geschiedenis te tonen (een overzicht van alle lokale commits).
+- [x] Maak hiervan een screenshot (commando & resultaat) met de naam **deel3B** (extensie naar keuze) en plaats deze in de **Screenshots** map.
 - [ ] Commit deze vierde screenshot in je lokale repo en sync nog eens naar de remote.
 - [ ] Controleer of je vier screenshots nu allen zichtbaar zijn in de map **Screenshots** op GitHub.
 
