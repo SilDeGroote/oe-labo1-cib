@@ -21,20 +21,20 @@ Je kan de toets niet volledig invullen zonder eerst het labo te maken.
 ---
 
 ### **Deel 1: Installatie en configuratie van git**
-- [ ] Ga naar de [website van git](https://git-scm.com/) en download de laatste versie. _(De meest geschikte voor jouw OS)_
-- [ ] Volg de stappen onder *Git Installatie* in de cursus over Git en installeer Git op jouw computer. Deze kan je terugvinden op Leho.
-- [ ] Na de Git installatie controleer je je gebruikersinstellingen, gebruik hiervoor de volgende commando's:
+- [x] Ga naar de [website van git](https://git-scm.com/) en download de laatste versie. _(De meest geschikte voor jouw OS)_
+- [x] Volg de stappen onder *Git Installatie* in de cursus over Git en installeer Git op jouw computer. Deze kan je terugvinden op Leho.
+- [x] Na de Git installatie controleer je je gebruikersinstellingen, gebruik hiervoor de volgende commando's:
 ```git
 git config --global user.name
 git config --global user.email
 ```
-- [ ] Indien je gebruikersinstellingen niet gekend zijn of verkeerd zijn, maak dan de nodige aanpassingen. Hiervoor kan je gebruik maken van volgende commando's:
+- [x] Indien je gebruikersinstellingen niet gekend zijn of verkeerd zijn, maak dan de nodige aanpassingen. Hiervoor kan je gebruik maken van volgende commando's:
 ```git
 git config --global user.name "Jouw GitHub Gebruikersnaam"
 git config --global user.email "voornaam.familienaam@student.howest.be"
 ```
 
-- [ ] Maak een screenshot van je gebruik van bovenstaande commando's. Geef deze screenshot de naam **deel1** (met extentie naar keuze—**GEEN hoofdletters**—bv. **deel1.png**).
+- [x] Maak een screenshot van je gebruik van bovenstaande commando's. Geef deze screenshot de naam **deel1** (met extentie naar keuze—**GEEN hoofdletters**—bv. **deel1.png**).
       Bewaar de afbeelding ergens op je pc, je hebt ze verder in het labo weer nodig.
 
 >**Tip!** Als windows gebruiker kan je dit snel en makkelijk doen door de toetsencombinatie _Win+Shift+S_.
@@ -42,19 +42,19 @@ Vervolgens sla je de screenshot op met de gevraagde naamgeving.
 ---
 ### **Deel 2: Van start met git!**
 
-- [ ] Open de Git Bash Console op de locatie waar je aan de slag wil/zal gaan voor dit labo.
+- [x] Open de Git Bash Console op de locatie waar je aan de slag wil/zal gaan voor dit labo.
 >**Tip!** Indien deze optie niet beschikbaar is, dan heb je een stap in de aanbevolen installatie overgeslaan. Herneem deze dan eerst even!
 
-- [ ] Gebruik het gepaste git commando om een nieuwe folder aan te maken **met** git version control. Deze folder krijgt de naam **labo1**.
+- [x] Gebruik het gepaste git commando om een nieuwe folder aan te maken **met** git version control. Deze folder krijgt de naam **labo1**.
 >**Tip!** Het git commando dat je nodig hebt, helpt je om een nieuwe git repository te *initialiseren* gelijktijdig bij het aanmaken van een nieuwe folder.
 
-- [ ] Ga vervolgens via de Console naar de nieuw aangemaakte folder.
+- [x] Ga vervolgens via de Console naar de nieuw aangemaakte folder.
 >**Tip!** Het commando's dat je hiervoor nodig hebt, is **geen** git commando.
 
-- [ ] Voor we wijzigingen gaan aanbrengen in onze lokale repo, willen we deze eerst al koppelen aan de remote op GitHub.
+- [x] Voor we wijzigingen gaan aanbrengen in onze lokale repo, willen we deze eerst al koppelen aan de remote op GitHub.
       Gebruik hiervoor het gepaste git commando.
 
-- [ ] Zorg er nu eerst en vooral voor dat je de actuele inhoud van de remote repo binnentrekt in je lokale repo, met het gepaste git commando.
+- [x] Zorg er nu eerst en vooral voor dat je de actuele inhoud van de remote repo binnentrekt in je lokale repo, met het gepaste git commando.
       In de GitHub repo die je van ons kreeg, staan immers al enkele bestanden die je lokaal nog niet hebt.
 
 >**Tip!** Het comando dat je hier nodig hebt, synchroniseert de commit geschiedenis van de **remote** repo naar de **lokale** repo.
@@ -62,26 +62,26 @@ Vervolgens sla je de screenshot op met de gevraagde naamgeving.
 >**Tip!** Indien je hier foutmeldingen of andere errors tegenkomt dan is er iets foutgelopen in je lokale repository.
           Verwijder de folder waar je aan de slag bent en start even opnieuw, dat is de makkelijkste manier.
 
-- [ ] Maak via een passend console commando (of via de Windows verkenner) een nieuw bestand aan. Geef je bestand de naam **labo1.md**.
+- [x] Maak via een passend console commando (of via de Windows verkenner) een nieuw bestand aan. Geef je bestand de naam **labo1.md**.
 >**Tip!** Het commando's dat je hiervoor nodig hebt, is **geen** git commando.
 
-- [ ] Vul je naam en voornaam in in de file **labo1.md** met een teksteditor naar keuze. Sla je aanpassingen op.
+- [x] Vul je naam en voornaam in in de file **labo1.md** met een teksteditor naar keuze. Sla je aanpassingen op.
 
-- [ ] Maak gebruik van passende git commando's om het aangemaakte bestand toe te voegen aan het versiebeheer van git. 
+- [x] Maak gebruik van passende git commando's om het aangemaakte bestand toe te voegen aan het versiebeheer van git. 
 >**Tip!** Indien je twijfelt aan de syntax, raadpleeg dan je cursus. Je hebt twee commando's nodig.
 
-- [ ] Maak een screenshot waarop de uitgevoerde commando's uit de vorige stap, en hun parameters, zichtbaar zijn.
+- [x] Maak een screenshot waarop de uitgevoerde commando's uit de vorige stap, en hun parameters, zichtbaar zijn.
      Geef deze de naam **deel2** (extensie naar keuze) en bewaar de screenshot ergens **buiten de repo**, je hebt ze straks weer nodig.
      
 ---
 ### **Deel 3: Syncen naar de remote repo**
 
-- [ ] Lokaal heb je een commit staan (uit deel 2) die nog niet naar de remote werd doorgestuurd.
+- [x] Lokaal heb je een commit staan (uit deel 2) die nog niet naar de remote werd doorgestuurd.
       Gebruik nu het gepaste git commando om deze commit naar de remote te sturen.
 >**Tip!** Het commando dat je zoekt, synchroniseert de commit geschiedenis van de **lokale** repo naar de **remote** repo.
 
-- [ ] Plaats nu de twee screenshots die je maakte (in deel 1 en deel 2) in de **Screenshots** map van je lokale repo.
-- [ ] Gebruik het gepaste git commando om een statusoverzicht te krijgen van de bestanden in je lokale repo.
+- [X] Plaats nu de twee screenshots die je maakte (in deel 1 en deel 2) in de **Screenshots** map van je lokale repo.
+- [X] Gebruik het gepaste git commando om een statusoverzicht te krijgen van de bestanden in je lokale repo.
       Maak opnieuw een screenshot van het uitgevoerde commando samen met het resultaat.
       Plaats deze meteen in de **Screenshots** map onder de naam **deel3A** (met extensie naar keuze).
 
