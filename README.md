@@ -91,15 +91,15 @@ Vervolgens sla je de screenshot op met de gevraagde naamgeving.
 - [x] Synchroniseer een tweede keer de lokale commit geschiedenis naar de remote repo.
 - [x] Gebruik een gepast git commando om de lokale geschiedenis te tonen (een overzicht van alle lokale commits).
 - [x] Maak hiervan een screenshot (commando & resultaat) met de naam **deel3B** (extensie naar keuze) en plaats deze in de **Screenshots** map.
-- [ ] Commit deze vierde screenshot in je lokale repo en sync nog eens naar de remote.
-- [ ] Controleer of je vier screenshots nu allen zichtbaar zijn in de map **Screenshots** op GitHub.
+- [x] Commit deze vierde screenshot in je lokale repo en sync nog eens naar de remote.
+- [x] Controleer of je vier screenshots nu allen zichtbaar zijn in de map **Screenshots** op GitHub.
 
 ---
 #### **Afwerken van het labo**
-- [ ] Na het voltooien van alle taken editeer je deze **README.md** file (lokaal, in een editor naar keuze)
+- [x] Na het voltooien van alle taken editeer je deze **README.md** file (lokaal, in een editor naar keuze)
   en plaats je alle taken op voltooid door de markup te wijzigen van [ ] naar [x]. 
-- [ ] Commit deze wijziging in je lokale repo.
-- [ ] Synchroniseer een laatste keer de lokale geschiedenis naar de remote repo op GitHub.
+- [x] Commit deze wijziging in je lokale repo.
+- [x] Synchroniseer een laatste keer de lokale geschiedenis naar de remote repo op GitHub.
 
 >**Tip!** Je kan hier gerust VS Code gaan gebruiken. Deze heeft ook een preview mode om met markdown aan de slag te gaan.
 
