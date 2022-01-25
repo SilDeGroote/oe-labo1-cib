@@ -96,10 +96,10 @@ Vervolgens sla je de screenshot op met de gevraagde naamgeving.
 
 ---
 #### **Afwerken van het labo**
-- [ ] Na het voltooien van alle taken editeer je deze **README.md** file (lokaal, in een editor naar keuze)
+- [x] Na het voltooien van alle taken editeer je deze **README.md** file (lokaal, in een editor naar keuze)
   en plaats je alle taken op voltooid door de markup te wijzigen van [ ] naar [x]. 
-- [ ] Commit deze wijziging in je lokale repo.
-- [ ] Synchroniseer een laatste keer de lokale geschiedenis naar de remote repo op GitHub.
+- [x] Commit deze wijziging in je lokale repo.
+- [x] Synchroniseer een laatste keer de lokale geschiedenis naar de remote repo op GitHub.
 
 >**Tip!** Je kan hier gerust VS Code gaan gebruiken. Deze heeft ook een preview mode om met markdown aan de slag te gaan.
 
